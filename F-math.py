@@ -9,7 +9,7 @@ def F_math(num):
         a = c
         # print("a:",a," b:",b)
     print(b)
-# F_math(1)
+F_math(1)
 # F_math(2)
 # F_math(5)
 # F_math(50)
